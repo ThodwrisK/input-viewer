@@ -1,0 +1,43 @@
+/* Animations */
+@keyframes fade-in {
+    from{ opacity: 0; }
+    to  { opacity: 1; }
+}
+
+@keyframes fade-out {
+    to{ opacity: 0; }
+}
+
+@keyframes slide-in-left {
+    from{
+        transform: translateX(-5em);
+    }
+}
+
+/* Rest */
+#list{
+    list-style-type: none;
+}
+
+.key{
+    animation: fade-in 1.2s forwards, slide-in-left 1s forwards;
+    width: 50px;
+    height: 50px;
+    border: 1px solid black;
+    border-radius: 7px;
+    box-shadow: -2px 2px 2px black;
+    margin-right: 6px;
+    margin-bottom: 10px;
+    text-align: center;
+    background-color: #2D2D2D;
+    color: #EEEAE7;
+}
+
+.key.removing{
+    animation: fade-out 0.8s forwards;
+}
+
+.key-text{
+    vertical-align: text-top;
+    text-align: left;
+}
