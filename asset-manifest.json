@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/ThodwrisK/input-viewer/static/css/main.1a2eafe3.css",
-    "main.js": "/ThodwrisK/input-viewer/static/js/main.8ef070b2.js",
-    "static/js/787.09fd0d93.chunk.js": "/ThodwrisK/input-viewer/static/js/787.09fd0d93.chunk.js",
-    "static/media/logo.svg": "/ThodwrisK/input-viewer/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
-    "index.html": "/ThodwrisK/input-viewer/index.html",
-    "main.1a2eafe3.css.map": "/ThodwrisK/input-viewer/static/css/main.1a2eafe3.css.map",
-    "main.8ef070b2.js.map": "/ThodwrisK/input-viewer/static/js/main.8ef070b2.js.map",
-    "787.09fd0d93.chunk.js.map": "/ThodwrisK/input-viewer/static/js/787.09fd0d93.chunk.js.map"
+    "main.css": "/input-viewer/static/css/main.1a2eafe3.css",
+    "main.js": "/input-viewer/static/js/main.2fff15c3.js",
+    "static/js/787.09fd0d93.chunk.js": "/input-viewer/static/js/787.09fd0d93.chunk.js",
+    "static/media/logo.svg": "/input-viewer/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/input-viewer/index.html",
+    "main.1a2eafe3.css.map": "/input-viewer/static/css/main.1a2eafe3.css.map",
+    "main.2fff15c3.js.map": "/input-viewer/static/js/main.2fff15c3.js.map",
+    "787.09fd0d93.chunk.js.map": "/input-viewer/static/js/787.09fd0d93.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.1a2eafe3.css",
-    "static/js/main.8ef070b2.js"
+    "static/js/main.2fff15c3.js"
   ]
 }
